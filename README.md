@@ -1,3 +1,3 @@
 # wellpads
 Codebase containing environment file (env.yml) and code workflow provided in the form of a Jupyter Notebook for ease of use. This repository serves as a companion file in support of the revised version of the following manuscript under review with Scientific Reports:
-> Miner, K., Baskaran, L., Gay, B., Sousa, D., & Miller, C. (2024). _Frozen no more: Permafrost impacts of oil and gas withdrawal above the Arctic Circle_, Scientific Reports. Under Review.
+> Miner, K., Baskaran, L., Gay, B. et al. Frozen no more, a case study of Arctic permafrost impacts of oil and gas withdrawal. Sci Rep 14, 25403 (2024). https://doi.org/10.1038/s41598-024-76292-2
